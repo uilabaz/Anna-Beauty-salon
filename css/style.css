@@ -1219,6 +1219,17 @@ input[type=email]:focus {
     left: 0px !important;
   }
 
+  
+.contacts-container {
+  position: relative;
+  top: 125px;
+}
+
+.footer {
+  padding-bottom: 100px;
+
+}
+
 }
 
 /************320px***********/
